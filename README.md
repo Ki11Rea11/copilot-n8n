@@ -54,9 +54,7 @@
 <div align="center">
 Из-за ограничений вычислительной мощности локального компьютера проект был развернут на профессиональном хостинге
 </div>
-n8n: https://n8n.tapir2sru.ru
-login: tapir2@gmail.com
-password: dzNv5Bn~z!FH'A2
+
 
 
 
