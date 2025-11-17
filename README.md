@@ -35,13 +35,12 @@
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">AI/ML</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">OpenAI GPT + Embeddings</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Ollama + Embeddings</td>
       <td style="padding: 10px; border: 1px solid #ddd;">Генерация ответов и семантический поиск</td>
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td style="padding: 10px; border: 1px solid #ddd;">Уведомления</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Telegram API, SMTP</td>
-      <td style="padding: 10px; border: 1px solid #ddd;">Рассылка уведомлений сотрудникам</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Telegram API</td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Фронтенд</td>
@@ -50,5 +49,15 @@
     </tr>
   </tbody>
 </table>
+
+
+<div align="center">
+Из-за ограничений вычислительной мощности локального компьютера проект был развернут на профессиональном хостинге
+</div>
+n8n: https://n8n.tapir2sru.ru
+login: tapir2@gmail.com
+password: dzNv5Bn~z!FH'A2
+
+
 
 
